@@ -28,8 +28,8 @@ Before running the application, ensure you have the following installed:
 1. *Clone the Repository*
 
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
-   cd <repository-name>
+   git clone https://github.com/Saad096/real-time-voice-bot.git
+   cd real-time-voice-bot
 
 
 
